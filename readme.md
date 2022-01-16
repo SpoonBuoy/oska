@@ -1,5 +1,5 @@
 # **OSKA**
-Open Source Kashmir Alerts is an automated notification alerter, which scraps various websites of various Institutions, fetches the recent notifications and tweets them.
+Open Source Kashmir Alerts is an automated notification alerter, which scraps the websites of various Institutions, fetches the recent notifications and tweets them.
 
 
 ## List of Institutions covered by oska:
